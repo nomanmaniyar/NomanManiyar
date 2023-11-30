@@ -2,7 +2,7 @@
 
 <p align='center'>
   <samp>
-    I'm Noman currently a Final Year CSE student at <a href="https://engg.matoshri.edu.in/">@MCOERC </a> and aspiring software developer:computer:. My interest lies in the field of Distributed Ledger Technologies, Software Development, DevOps and Web Security. Occasionally I do participate in Hackathons :bulb:
+    I'm Noman currently working at <a href="https://www.infosys.com/">infosys</a> as a System Engineer and aspiring software developer:computer:. My interest lies in the field of Distributed Ledger Technologies, Software Development, DevOps and Web Security. Occasionally I do participate in Hackathons :bulb:
   </samp>
 </p>
 <h1 align='center'>Connect with me :smiley:</h1>
