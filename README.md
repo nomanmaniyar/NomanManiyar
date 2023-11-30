@@ -7,7 +7,7 @@
 </p>
 <h1 align='center'>Connect with me :smiley:</h1>
 <p align='center'>
-<a href="https://twitter.com/NomaanManiyar">
+<a href="https://x.com/nomanmaniyar_">
   <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/noman-maniyar-40658117b/">
