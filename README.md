@@ -22,9 +22,8 @@
 </a>&nbsp;&nbsp;
 
 # 📊 GitHub Stats:
-<div justify-content: center>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nomanmaniyar&theme=nord&hide_border=true)<br/>
-  </div>
+
 <!--
 **NomanManiyar/NomanManiyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
