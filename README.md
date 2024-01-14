@@ -20,8 +20,9 @@
   <img src="https://img.shields.io/badge/email me-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>&nbsp;&nbsp;
 </a>&nbsp;&nbsp;
+<h1 align='center'>GitHub Stats 📊</h1>
 
-# 📊 GitHub Stats:
+# 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nomanmaniyar&theme=nord&hide_border=true)<br/>
 
 <!--
